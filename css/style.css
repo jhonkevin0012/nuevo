@@ -5,7 +5,7 @@ body{
 .name_title{
     text-align: center;
     color: white;
-    font-family: 'Chelsea Market', cursive;
+    font-family: 'system-ui';
     font-size: 5vh;
     margin-top: 75px;
 }
@@ -13,5 +13,5 @@ body{
     position: static;
     z-index: -20;
     text-align: center;
-    margin-top: -300px;
+    margin-top: -100px;
 }
